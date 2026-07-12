@@ -31,6 +31,7 @@ I am focused on mastering full-stack software development step-by-step through h
 
 ### 🛠️ Current Projects & Experiments
 - 📚 **Meine Bibliothek:** Eine minimalistische Webanwendung zur Verwaltung einer persönlichen Büchersammlung, entwickelt im Rahmen der FIAE-Ausbildung.
+  [👉 Live Demo hier ansehen](https://meine-bibliothek.onrender.com)
 - 🟢 **Matrix Portfolio (In Progress):** A personal frontend practice project using HTML, CSS, and interactive JavaScript with a Matrix-themed aesthetic.
 - 🤖 **Agentic AI Exploration:** Personally experimenting with workflows, LangChain, and AI tools to explore the concept of autonomous computer operators and automated assistants.
 - 👥 **Team School Projects (In Progress):** Educational projects built within the curriculum to prepare for the certification exam, while practicing working in a team.
